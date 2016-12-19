@@ -1,2 +1,2 @@
 # html-email
-Repo for the HTML email template
+Repo for the NZMOSA HTML email template
